@@ -1,6 +1,30 @@
-# my-life-portfolio
+# brag-portafolio-template
 
-Bienvenido a **my-life-portfolio**, un repositorio personal para documentar y versionar tus logros, proyectos y experiencias a lo largo de tu vida, tanto en el ámbito profesional como personal.
+Bienvenido a **brag-portafolio-template**, un repositorio template para documentar y versionar tus logros, proyectos y experiencias a lo largo de tu vida, tanto en el ámbito profesional como personal.
+
+> **Template creado por Cristián Andrée Vera Lyon** - Disponible como plantilla open source para que cualquier persona pueda documentar sus logros profesionales.
+
+## Instrucciones para usar este template
+
+Hay dos formas de usar este template:
+
+### Opción 1: Usar GitHub Template (Recomendado)
+
+1. Haz clic en el botón verde "Use this template" en la parte superior de esta página
+2. Elige un nombre para tu repositorio (sugerencia: "my-life-portfolio" o similar)
+3. Selecciona si quieres que sea público o privado
+4. Haz clic en "Create repository from template"
+
+### Opción 2: Fork del repositorio
+
+1. Haz clic en el botón "Fork" en la parte superior derecha
+2. Personaliza el fork según tus necesidades
+
+Una vez que tengas tu copia:
+
+- Actualiza las secciones personales de este README si lo deseas
+- Comienza a usar las plantillas en cada carpeta
+- Establece una rutina para mantener tu brag document actualizado
 
 ## ¿Qué es un Brag Document y por qué mantenerlo?
 
@@ -85,7 +109,7 @@ Para obtener el máximo beneficio, se recomienda:
 
 ## Contribuciones
 
-Si deseas aportar ideas o mejoras a la estructura o al contenido de este repositorio, siéntete libre de hacerlo mediante pull requests. ¡Toda sugerencia es bienvenida!
+Si deseas aportar ideas o mejoras a la estructura o al contenido de este template, siéntete libre de hacerlo mediante pull requests. ¡Toda sugerencia es bienvenida!
 
 ## Referencias
 
@@ -95,4 +119,4 @@ Si deseas aportar ideas o mejoras a la estructura o al contenido de este reposit
 
 ## Licencia
 
-Este repositorio es de uso personal y pertenece a Cristián Andrée Vera Lyon.
+Este template fue creado originalmente por Cristián Andrée Vera Lyon y está disponible bajo licencia MIT. Puedes usarlo, modificarlo y distribuirlo libremente mientras mantengas la atribución al autor original.
