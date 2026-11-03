@@ -2,7 +2,7 @@
 
 Bienvenido a **brag-portafolio-template**, un repositorio template para documentar y versionar tus logros, proyectos y experiencias a lo largo de tu vida, tanto en el ámbito profesional como personal.
 
-> **Template creado por Cristián Andrée Vera Lyon** - Disponible como plantilla open source para que cualquier persona pueda documentar sus logros profesionales.
+> **Template creado por Cristián Vera Lyon** - Disponible como plantilla open source para que cualquier persona pueda documentar sus logros profesionales.
 
 ## Instrucciones para usar este template
 
@@ -119,4 +119,4 @@ Si deseas aportar ideas o mejoras a la estructura o al contenido de este templat
 
 ## Licencia
 
-Este template fue creado originalmente por Cristián Andrée Vera Lyon y está disponible bajo licencia MIT. Puedes usarlo, modificarlo y distribuirlo libremente mientras mantengas la atribución al autor original.
+Este template fue creado originalmente por Cristián Vera Lyon y está disponible bajo licencia MIT. Puedes usarlo, modificarlo y distribuirlo libremente mientras mantengas la atribución al autor original.
